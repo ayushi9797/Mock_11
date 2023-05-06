@@ -30,7 +30,7 @@ NODEJS EXPRESS
 
 `http://localhost:8080/create `
 
-``
+```
 {
       "_id": "6455ff81d2a3b15f043007d3",
       "Author_Name": "Ayushi",
@@ -40,7 +40,7 @@ NODEJS EXPRESS
       "__v": 0
     },
 
-    `
+
     {
       "_id": "6455ff74d2a3b15f043007d1",
       "Author_Name": "Chiku",
